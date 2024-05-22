@@ -107,7 +107,11 @@ public class Main {
         var fecha = Integer.parseInt(sc.nextLine().trim());
         List<Autor> autoresVivos = rep.verAutoresVivos(fecha);
         if (!autoresVivos.isEmpty()) {
-            autoresVivos.forEach(System.out::println);
+            for (Autor a : autoresVivos) {
+                if (a.getNacimiento() != 0 && a.getMuerte() != 0) {
+                    System.out.println(a);
+                }
+            }
         } else {
             System.out.println("No se encontraron autores vivos en el año " + fecha);
         }
