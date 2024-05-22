@@ -1,4 +1,4 @@
-![image](https://github.com/JorgeRandomGamer/Literalura/assets/45271115/7443df67-de36-4ce8-aa55-4b921da1a463)# Literalura
+
 Library Project For Alura's Course
 
 #  com/alura/cokke/Literalura
