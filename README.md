@@ -1,3 +1,4 @@
+![badge literalura](https://github.com/JorgeRandomGamer/Literalura/assets/45271115/6c0147e0-be08-4ae7-bba2-70d1586ad438)
 
 Library Project For Alura's Course
 
